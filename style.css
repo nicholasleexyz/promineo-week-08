@@ -1,0 +1,46 @@
+body {
+    background-color: gray;
+}
+
+.header {
+    background-color: white;
+    border: solid black;
+    border-radius: 0.5rem;
+}
+
+table,
+form {
+    background-color: black;
+    color: green;
+}
+
+th,
+label {
+    color: white;
+}
+
+tr:nth-child(even),
+input {
+    background-color: rgb(64, 64, 64);
+}
+
+td:nth-child(even) {
+    color: greenyellow;
+}
+
+img {
+    border: solid black;
+    border-radius: 1rem;
+}
+
+ul {
+    background-color: blueviolet;
+}
+
+li:nth-child(odd) {
+    background-color: whitesmoke;
+}
+
+li:nth-child(even) {
+    background-color: white;
+}
